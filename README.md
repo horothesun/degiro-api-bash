@@ -1,5 +1,7 @@
 # Degiro API calls
 
+[![CI](https://github.com/horothesun/degiro-api-bash/actions/workflows/ci.yml/badge.svg)](https://github.com/horothesun/degiro-api-bash/actions/workflows/ci.yml)
+
 ## Login
 
 ```bash
